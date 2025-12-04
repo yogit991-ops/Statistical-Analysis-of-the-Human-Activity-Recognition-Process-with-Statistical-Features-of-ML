@@ -1,0 +1,2 @@
+# Statistical-Analysis-of-the-Human-Activity-Recognition-Process-with-Statistical-Features-of-ML
+Project based on machine learning to classify the activities of humans basing on the data of wearable sensors on eight subjects who had to execute some 19 distinct motions. We have retrieved 180 features and tested a number of models, such as SVM, KNN, and Decision Trees. SVM model had a 99.16 percent accuracy and K-means had moderate results.
